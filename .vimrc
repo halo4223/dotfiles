@@ -1,6 +1,3 @@
-""""""""""""""""""""""""""""""""""""""""""
-" Haukes vimrc vom 2014-08-26
-""""""""""""""""""""""""""""""""""""""""""
 " Farbmanagement
 colorscheme desert
 set background=dark
